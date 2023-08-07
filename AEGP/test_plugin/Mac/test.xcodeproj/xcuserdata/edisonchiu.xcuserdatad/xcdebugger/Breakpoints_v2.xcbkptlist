@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "73935732-4891-40BA-86CD-CE7978E7C73C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5E3EEE6-0FA0-4413-8CA3-A2ACC9543367"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "462"
+            endingLineNumber = "462"
+            landmarkName = "Keyframer(in_data, itemH, parent_itemH0, filename)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0459BDC-2DD7-4BF8-A1E0-36C04A234A82"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "copyConvertStringLiteralIntoUTF16(inputString, destination)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C0459BDC-2DD7-4BF8-A1E0-36C04A234A82 - bf7157d7fa845c78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "readJSON(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;&amp;)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "C0459BDC-2DD7-4BF8-A1E0-36C04A234A82 - bf7157d7fa845c78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "readJSON(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;&amp;)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AD025D0-2FA5-4936-B8A7-2EAB38FC237A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "275"
+            endingLineNumber = "275"
+            landmarkName = "createInitialMask(in_data, mask_stream_val, mask_outline_valH, mask_data)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A915E84-273B-42E6-B6C9-71CEBC4B56E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "enum"
+            landmarkType = "13">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06634B21-F794-4210-BB4A-D04E7CFE9F17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "enum"
+            landmarkType = "13">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20DF7A3E-492A-45F2-847A-A59B886240A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "685"
+            endingLineNumber = "685"
+            landmarkName = "Render(in_data, out_data, params, output)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48ED843A-8504-41F8-B334-21BFCD78C9E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "457"
+            endingLineNumber = "457"
+            landmarkName = "Keyframer(in_data, itemH, parent_itemH0, filename)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "48ED843A-8504-41F8-B334-21BFCD78C9E3 - d9e3783f1520e081"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Keyframer(PF_InData*, _AEGP_Item**, _AEGP_Item**, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;&amp;)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "434"
+                  endingLineNumber = "434"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "48ED843A-8504-41F8-B334-21BFCD78C9E3 - d9e3783f1520e147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Keyframer(PF_InData*, _AEGP_Item**, _AEGP_Item**, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;&amp;)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "432"
+                  endingLineNumber = "432"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "48ED843A-8504-41F8-B334-21BFCD78C9E3 - d9e3783f1520e0e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Keyframer(PF_InData*, _AEGP_Item**, _AEGP_Item**, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;&amp;)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "437"
+                  endingLineNumber = "437"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1E4722F-AC3E-4A28-B60D-EF80FFFF66DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "697"
+            endingLineNumber = "697"
+            landmarkName = "UserChangedParam(in_data, out_data, params, which_hitP)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D1E4722F-AC3E-4A28-B60D-EF80FFFF66DD - 6c88644630323d5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GlobalSetdown(PF_InData*, PF_OutData*, PF_ParamDef**, PF_LayerDef*)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "683"
+                  endingLineNumber = "683"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "D1E4722F-AC3E-4A28-B60D-EF80FFFF66DD - 7b7e04b6b9f1edc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserChangedParam(PF_InData*, PF_OutData*, PF_ParamDef**, PF_UserChangedParamExtra const*)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "676"
+                  endingLineNumber = "676"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "D1E4722F-AC3E-4A28-B60D-EF80FFFF66DD - 7b7e04b6b9f1ed1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserChangedParam(PF_InData*, PF_OutData*, PF_ParamDef**, PF_UserChangedParamExtra const*)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "681"
+                  endingLineNumber = "681"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "D1E4722F-AC3E-4A28-B60D-EF80FFFF66DD - 7b7e04b6b9f1ecd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserChangedParam(PF_InData*, PF_OutData*, PF_ParamDef**, PF_UserChangedParamExtra const*)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "683"
+                  endingLineNumber = "683"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7116E7EC-A613-48FE-89BF-F0CF5F961223"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "693"
+            endingLineNumber = "693"
+            landmarkName = "UserChangedParam(in_data, out_data, params, which_hitP)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "7116E7EC-A613-48FE-89BF-F0CF5F961223 - 7b7e04b6b9f1ed7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserChangedParam(PF_InData*, PF_OutData*, PF_ParamDef**, PF_UserChangedParamExtra const*)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "678"
+                  endingLineNumber = "678"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "7116E7EC-A613-48FE-89BF-F0CF5F961223 - 7b7e04b6b9f1ed5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UserChangedParam(PF_InData*, PF_OutData*, PF_ParamDef**, PF_UserChangedParamExtra const*)"
+                  moduleName = "Shade"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/shade-ae/AEGP/Shade/Shade.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "679"
+                  endingLineNumber = "679"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0D5E81C-A9FC-4537-88C3-1DC81ACF5B14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "415"
+            endingLineNumber = "415"
+            landmarkName = "addTrackKeyframes(in_data, filename)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B9E0B40-337C-417F-AC7D-802954F843AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Shade.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "383"
+            endingLineNumber = "383"
+            landmarkName = "addTrackKeyframes(in_data, filename)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

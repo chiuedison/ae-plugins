@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "89b79a449bbe04cf0be879cc0e27ba15839fe2fdb5c92afc847599684769d9b2"
+    }
+  ],
+  "containerPath" : "/Users/weigfan/code/AfterEffectsSDK/Examples/Template/Skeleton/Mac/Skeleton.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/weigfan/code/AfterEffectsSDK/Examples/Template/Skeleton/Mac/DerivedData/Skeleton/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/weigfan/code/AfterEffectsSDK/Examples/Template/Skeleton/Mac/DerivedData/Skeleton/Index/Build/Products",
+      "derivedDataPath" : "/Users/weigfan/code/AfterEffectsSDK/Examples/Template/Skeleton/Mac/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/weigfan/code/AfterEffectsSDK/Examples/Template/Skeleton/Mac/DerivedData/Skeleton/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/weigfan/code/AfterEffectsSDK/Examples/Template/Skeleton/Mac/DerivedData/Skeleton/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/weigfan/code/AfterEffectsSDK/Examples/Template/Skeleton/Mac/DerivedData/Skeleton/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/weigfan/code/AfterEffectsSDK/Examples/Template/Skeleton/Mac/DerivedData/Skeleton/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

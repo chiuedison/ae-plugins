@@ -1,0 +1,3 @@
+/Users/emerson/CLionProjects/shade/shade-ae/AEGP/Shade/testing/cmake-build-debug/CMakeFiles/Drafting.dir
+/Users/emerson/CLionProjects/shade/shade-ae/AEGP/Shade/testing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emerson/CLionProjects/shade/shade-ae/AEGP/Shade/testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

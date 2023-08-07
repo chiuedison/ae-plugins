@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CF8976F9-46C6-4B6E-8D88-904F6195A2FA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4338CE4F-4DFF-4B31-B0E2-AE5F7ED3CBAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Streamie.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "CommandHook(plugin_refconPV, refconPV, command, hook_priority, already_handledB, handledPB)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "4338CE4F-4DFF-4B31-B0E2-AE5F7ED3CBAB - c89f5cad09c641bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CommandHook(_AEGP_GlobalRefcon*, _AEGP_CommandRefcon*, int, unsigned int, unsigned char, unsigned char*)"
+                  moduleName = "Streamie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/AfterEffectsSDK/Examples/AEGP/Streamie/Streamie.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1056">
+               </Location>
+               <Location
+                  uuid = "4338CE4F-4DFF-4B31-B0E2-AE5F7ED3CBAB - c89f5cad09c641bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CommandHook(_AEGP_GlobalRefcon*, _AEGP_CommandRefcon*, int, unsigned int, unsigned char, unsigned char*)"
+                  moduleName = "Streamie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edisonchiu/Documents/Shade/AfterEffectsSDK/Examples/AEGP/Streamie/Streamie.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
