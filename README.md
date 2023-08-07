@@ -1,5 +1,5 @@
 # ae-plugins
-Testing plugins using Adobe AE SDK.
+Testing VFX and custom import plugins using Adobe AE SDK.
 ## Configurations and Set-Up
 We want to use either XCode or AppCode to run this code, as it provides a simple workflow with effective debugging features.
 
